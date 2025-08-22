@@ -6,11 +6,11 @@
 network = "arbitrum-sepolia"
 
 # Your wallet address that deployed the contracts, this is required for all operations
-deployed_by = "0xB4e6ee231C86bBcCB35935244CBE9cE333D30Bdf"
+deployed_by = "0xc19fb42a9Fca005B62b52A93d8bEDb798c354187"
 
 # Optional: Default contract address
 # If specified, you can run 'smart-cache add' without providing an address
-contract_address = "0x3bb01406e9d70cfe6e04d5b7c6bc80013848039d"
+contract_address = "0x4d119487514eca022b10122ff61167259f945655"
 
 # Optional: Default contract metadata
 # name = "MyContract"
